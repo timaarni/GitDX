@@ -36,10 +36,10 @@
             "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 340,
-            "modifiedTime": 1502880393000,
-            "changeTime": 1502880393000,
-            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86"
+            "size": 272,
+            "modifiedTime": 1502879870000,
+            "changeTime": 1502879870000,
+            "contentHash": "f440de1ff392aa8441f99235374c53c458c599eb"
         }
     ],
     [
@@ -47,13 +47,14 @@
         {
             "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1502880118000,
-            "changeTime": 1502880118000,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "size": 68,
+            "modifiedTime": 1502868843000,
+            "changeTime": 1502868843000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -61,13 +62,14 @@
         {
             "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation",
             "isDirectory": true,
-            "size": 306,
-            "modifiedTime": 1502878992000,
-            "changeTime": 1502878992000,
-            "contentHash": "3b41734b0310ab40a5fa82fbb459a28e8d063429",
+            "size": 272,
+            "modifiedTime": 1502869263000,
+            "changeTime": 1502869263000,
+            "contentHash": "9f80c4a0c54275d0c05dd8b461ae5ebcb3bd8805",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -814,222 +816,40 @@
     [
         "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1502879977000,
             "changeTime": 1502879977000,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/classes/AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 269,
             "modifiedTime": 1502879977000,
             "changeTime": 1502879977000,
-            "contentHash": "c64d0f088efdf02e7247c45b133a51e489648b7f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c64d0f088efdf02e7247c45b133a51e489648b7f"
         }
     ],
     [
         "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1502879870000,
             "changeTime": 1502879870000,
-            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator",
-        {
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator",
-            "isDirectory": true,
-            "size": 272,
-            "modifiedTime": 1502880168000,
-            "changeTime": 1502880168000,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-        {
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-            "isDirectory": false,
-            "size": 144,
-            "modifiedTime": 1502880145000,
-            "changeTime": 1502880145000,
-            "contentHash": "41593e957491412b466bec2a6f718d074028c5f5",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1502880118000,
-            "changeTime": 1502880118000,
-            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-        {
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-            "isDirectory": false,
-            "size": 100,
-            "modifiedTime": 1502880168000,
-            "changeTime": 1502880168000,
-            "contentHash": "bb8c2100d63a87bdf08f22f0c80caa4eb449c5df",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-        {
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1502880118000,
-            "changeTime": 1502880118000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-        {
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1502880118000,
-            "changeTime": 1502880118000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-        {
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1502880118000,
-            "changeTime": 1502880118000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 267,
-            "modifiedTime": 1502880393000,
-            "changeTime": 1502880393000,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 6001,
-            "modifiedTime": 1502880393000,
-            "changeTime": 1502880393000,
-            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5665,
-            "modifiedTime": 1502880393000,
-            "changeTime": 1502880393000,
-            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5661,
-            "modifiedTime": 1502880393000,
-            "changeTime": 1502880393000,
-            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 18119,
-            "modifiedTime": 1502880393000,
-            "changeTime": 1502880393000,
-            "contentHash": "9c48d668752c980ff4e175ae31b1228407268664"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/tabs",
-        {
-            "state": "u",
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/tabs",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1502880393000,
-            "changeTime": 1502880393000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
-        }
-    ],
-    [
-        "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/profiles",
-        {
-            "state": "u",
-            "sourcePath": "/Users/timoaarnio/Documents/GitDX/geolocation/force-app/main/default/profiles",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 204,
-            "modifiedTime": 1502880393000,
-            "changeTime": 1502880393000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004"
         }
     ]
 ]
